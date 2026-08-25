@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Ahmed Khan",
+    "role": "Faculty Coordinator",
+    "department": "Computer Science",
+    "email": "ahmed.khan@campusconnect.edu",
+    "phone": "0300-1234567",
+    "image": "images/coordinators/ahmed-khan.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Ms. Sara Ahmed",
+    "role": "Faculty Coordinator",
+    "department": "Student Affairs",
+    "email": "sara.ahmed@campusconnect.edu",
+    "phone": "0301-2345678",
+    "image": "images/coordinators/sara-ahmed.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Ali Hassan",
+    "role": "Student Coordinator",
+    "department": "Computer Science",
+    "email": "ali.hassan@student.campusconnect.edu",
+    "phone": "0312-3456789",
+    "image": "images/coordinators/ali-hassan.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Ayesha Malik",
+    "role": "Student Coordinator",
+    "department": "Student Affairs",
+    "email": "ayesha.malik@student.campusconnect.edu",
+    "phone": "0321-4567890",
+    "image": "images/coordinators/ayesha-malik.jpg"
+  }
+]
+

@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "eventId": 1,
+    "title": "TechFest 2026",
+    "category": "Technical",
+    "year": "2026",
+    "image": "images/gallery/techfest-1.jpg"
+  },
+  {
+    "id": 2,
+    "eventId": 5,
+    "title": "Innovation & Startup Expo",
+    "category": "Technical",
+    "year": "2026",
+    "image": "images/gallery/startup-expo-1.jpg"
+  },
+
+  {
+    "id": 3,
+    "eventId": 2,
+    "title": "Cultural Night 2026",
+    "category": "Cultural",
+    "year": "2026",
+    "image": "images/gallery/cultural-night-1.jpg"
+  },
+  {
+    "id": 4,
+    "eventId": 6,
+    "title": "Inter-College Debate Competition",
+    "category": "Cultural",
+    "year": "2026",
+    "image": "images/gallery/debate-1.jpg"
+  },
+  {
+    "id": 5,
+    "eventId": 7,
+    "title": "Music & Talent Showcase",
+    "category": "Cultural",
+    "year": "2026",
+    "image": "images/gallery/music-showcase-1.jpg"
+  },
+  {
+    "id": 6,
+    "eventId": 11,
+    "title": "Annual Art & Photography Exhibition",
+    "category": "Cultural",
+    "year": "2026",
+    "image": "images/gallery/art-exhibition-1.jpg"
+  },
+
+  {
+    "id": 7,
+    "eventId": 3,
+    "title": "Annual Sports Gala 2026",
+    "category": "Sports",
+    "year": "2026",
+    "image": "images/gallery/sports-gala-1.jpg"
+  },
+  {
+    "id": 8,
+    "eventId": 8,
+    "title": "Inter-Department Cricket Tournament",
+    "category": "Sports",
+    "year": "2026",
+    "image": "images/gallery/cricket-1.jpg"
+  },
+  {
+    "id": 9,
+    "eventId": 9,
+    "title": "Badminton Championship",
+    "category": "Sports",
+    "year": "2026",
+    "image": "images/gallery/badminton-1.jpg"
+  },
+
+  {
+    "id": 10,
+    "eventId": 4,
+    "title": "Career Development Workshop",
+    "category": "Workshop",
+    "year": "2026",
+    "image": "images/gallery/career-workshop-1.jpg"
+  },
+  {
+    "id": 11,
+    "eventId": 10,
+    "title": "Digital Skills Workshop",
+    "category": "Workshop",
+    "year": "2026",
+    "image": "images/gallery/digital-skills-1.jpg"
+  },
+  {
+    "id": 12,
+    "eventId": 12,
+    "title": "Leadership & Communication Seminar",
+    "category": "Workshop",
+    "year": "2026",
+    "image": "images/gallery/leadership-seminar-1.jpg"
+  }
+]

@@ -1,0 +1,173 @@
+[
+  {
+    "id": 1,
+    "title": "TechFest 2026",
+    "description": "A technical festival featuring coding competitions, project exhibitions, innovation challenges and technology-based activities for students.",
+    "date": "2026-09-15",
+    "time": "10:00 AM - 5:00 PM",
+    "department": "Computer Science",
+    "type": "Technical",
+    "venue": "Main Auditorium",
+    "organizer": "Computer Science Department",
+    "image": "images/events/techfest.jpg",
+    "popularity": 95
+  },
+
+  {
+    "id": 5,
+    "title": "Innovation & Startup Expo",
+    "description": "A student-focused exhibition where young innovators present creative ideas, startup concepts and technology-based solutions.",
+    "date": "2026-10-20",
+    "time": "10:00 AM - 4:00 PM",
+    "department": "Business & Innovation",
+    "type": "Technical",
+    "venue": "Innovation Center",
+    "organizer": "Entrepreneurship Society",
+    "image": "images/events/startup-expo.jpg",
+    "popularity": 82
+  },
+
+
+  {
+    "id": 2,
+    "title": "Cultural Night 2026",
+    "description": "An exciting evening celebrating student creativity through music, dance, performances and cultural activities.",
+    "date": "2026-09-22",
+    "time": "5:00 PM - 9:00 PM",
+    "department": "Student Affairs",
+    "type": "Cultural",
+    "venue": "College Open Ground",
+    "organizer": "Cultural Society",
+    "image": "images/events/cultural-night.jpg",
+    "popularity": 92
+  },
+
+  {
+    "id": 6,
+    "title": "Inter-College Debate Competition",
+    "description": "A competitive debate event bringing together students to demonstrate communication, research and critical thinking skills.",
+    "date": "2026-10-28",
+    "time": "11:00 AM - 3:00 PM",
+    "department": "English Department",
+    "type": "Cultural",
+    "venue": "Conference Hall",
+    "organizer": "Literary Society",
+    "image": "images/events/debate.jpg",
+    "popularity": 78
+  },
+
+  {
+    "id": 7,
+    "title": "Music & Talent Showcase",
+    "description": "A lively student showcase featuring singers, musicians, performers and emerging campus talent.",
+    "date": "2026-11-05",
+    "time": "4:00 PM - 8:00 PM",
+    "department": "Student Affairs",
+    "type": "Cultural",
+    "venue": "College Auditorium",
+    "organizer": "Arts & Music Society",
+    "image": "images/events/music-showcase.jpg",
+    "popularity": 90
+  },
+
+  {
+    "id": 11,
+    "title": "Annual Art & Photography Exhibition",
+    "description": "A creative exhibition showcasing paintings, photography, digital artwork and other artistic work created by students.",
+    "date": "2026-12-03",
+    "time": "11:00 AM - 5:00 PM",
+    "department": "Fine Arts Department",
+    "type": "Cultural",
+    "venue": "Student Activity Center",
+    "organizer": "Arts Society",
+    "image": "images/events/art-exhibition.jpg",
+    "popularity": 83
+  },
+
+
+  {
+    "id": 3,
+    "title": "Annual Sports Gala 2026",
+    "description": "An energetic inter-department sports event featuring football, cricket, badminton, athletics and other student competitions.",
+    "date": "2026-10-05",
+    "time": "9:00 AM - 4:00 PM",
+    "department": "Sports Department",
+    "type": "Sports",
+    "venue": "College Sports Ground",
+    "organizer": "Sports Committee",
+    "image": "images/events/sports-gala.jpg",
+    "popularity": 88
+  },
+
+  {
+    "id": 8,
+    "title": "Inter-Department Cricket Tournament",
+    "description": "A friendly but competitive cricket tournament where college departments compete for the annual sports championship.",
+    "date": "2026-11-12",
+    "time": "9:00 AM - 3:00 PM",
+    "department": "Sports Department",
+    "type": "Sports",
+    "venue": "College Cricket Ground",
+    "organizer": "Sports Committee",
+    "image": "images/events/cricket.jpg",
+    "popularity": 86
+  },
+
+  {
+    "id": 9,
+    "title": "Badminton Championship",
+    "description": "An inter-department badminton championship providing students an opportunity to compete and demonstrate their sporting skills.",
+    "date": "2026-11-18",
+    "time": "10:00 AM - 2:00 PM",
+    "department": "Sports Department",
+    "type": "Sports",
+    "venue": "Indoor Sports Complex",
+    "organizer": "Sports Committee",
+    "image": "images/events/badminton.jpg",
+    "popularity": 75
+  },
+
+
+  {
+    "id": 4,
+    "title": "Career Development Workshop",
+    "description": "An interactive workshop designed to help students improve their professional skills, prepare for interviews and plan their future careers.",
+    "date": "2026-10-12",
+    "time": "11:00 AM - 2:00 PM",
+    "department": "Career Development Center",
+    "type": "Workshop",
+    "venue": "Seminar Hall",
+    "organizer": "Career Development Center",
+    "image": "images/events/career-workshop.jpg",
+    "popularity": 84
+  },
+
+  {
+    "id": 10,
+    "title": "Digital Skills Workshop",
+    "description": "A practical workshop introducing students to useful digital tools, productivity techniques and modern workplace skills.",
+    "date": "2026-11-25",
+    "time": "10:00 AM - 1:00 PM",
+    "department": "Computer Science",
+    "type": "Workshop",
+    "venue": "Computer Lab",
+    "organizer": "IT Society",
+    "image": "images/events/digital-skills.jpg",
+    "popularity": 80
+  },
+
+  {
+    "id": 12,
+    "title": "Leadership & Communication Seminar",
+    "description": "An informative seminar focused on leadership, teamwork, communication and personal development for university students.",
+    "date": "2026-12-10",
+    "time": "12:00 PM - 3:00 PM",
+    "department": "Student Affairs",
+    "type": "Workshop",
+    "venue": "Seminar Hall",
+    "organizer": "Student Development Center",
+    "image": "images/events/leadership-seminar.jpg",
+    "popularity": 79
+  }
+]
+
